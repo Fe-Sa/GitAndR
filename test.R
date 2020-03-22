@@ -3,4 +3,9 @@ get-yesterday <- function(){
  return(x)
  #Adding a commment here to commit within GitHub
 }
-getwd()
+
+# steps :
+  # 1: Edit code
+  # 2: Save the script
+  # 3: Got to the commit tab in the env pane
+  # 4: Select the script and select Commit 
